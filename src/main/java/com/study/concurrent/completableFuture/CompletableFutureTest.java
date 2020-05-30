@@ -12,6 +12,7 @@ import java.util.function.*;
  * @description: CompletableFuture使用
  * <p>
  *  此demo的素材来源于https://www.jianshu.com/p/6bac52527ca4
+ *  如果需要学习，请参考原文
  *  我将其加工成lambda表达式进行展示
  * </p>
  * @author: lyz
