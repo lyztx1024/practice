@@ -1,4 +1,4 @@
-package com.study.concurrent;
+package com.study.concurrent.callable;
 
 import lombok.extern.slf4j.Slf4j;
 

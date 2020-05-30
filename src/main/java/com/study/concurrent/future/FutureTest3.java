@@ -1,5 +1,6 @@
-package com.study.concurrent;
+package com.study.concurrent.future;
 
+import com.study.concurrent.model.User;
 import lombok.extern.slf4j.Slf4j;
 
 import java.util.concurrent.Future;

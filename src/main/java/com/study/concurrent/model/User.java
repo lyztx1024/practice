@@ -1,4 +1,4 @@
-package com.study.concurrent;
+package com.study.concurrent.model;
 
 
 /**

@@ -1,4 +1,4 @@
-package com.study.concurrent;
+package com.study.concurrent.util;
 
 import com.google.common.util.concurrent.MoreExecutors;
 import com.google.common.util.concurrent.ThreadFactoryBuilder;

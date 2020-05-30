@@ -1,4 +1,4 @@
-package com.study.concurrent;
+package com.study.concurrent.util;
 
 import org.apache.commons.lang3.Validate;
 
